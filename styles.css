@@ -1,0 +1,42 @@
+/* add your CSS here */
+img{
+	width:300px;
+	height: 200px;
+	margin-bottom: 2px;
+  border-radius:10px;
+}
+em{
+	font-style: italic;
+	text-align: justify;
+}
+.emphasize{
+	font-style: italic;
+	text-align: justify;
+	/*font-family: Helvetica, Arial, sans-serif;*/
+}
+.Container{
+/* 	border-width: thin;
+  border-style: solid;		
+	border-color: #c0c0c0; */
+  border: thin solid #c0c0c0;
+  border-radius: 20px;
+	width: 320px;
+  box-shadow: rgba(0, 0, 0, 0.2) 10px 10px 5px 0px;
+  padding: 0 0 10px 10px;
+/*background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnTrSwuZFWKkUhJc-Hzu48fRsfjbLjCzpIUVRHcFFHb4ZPc1Ta); */
+	/*font-family: Helvetica, Arial, sans-serif;*/
+}
+.label{
+	font-weight: bold; 
+}
+.innerDivContainer{
+  border: thin solid #c0c0c0;
+	border-radius: 20px;
+	width:300px;
+	height: 280px;
+    padding: 0.1em 0.1em 0.1em 0.5em;
+}
+ul{
+	list-style-type: none;
+	padding-left: 0px;
+}
